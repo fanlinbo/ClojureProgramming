@@ -2,6 +2,7 @@
 (defn average
   [numbers]
   (/ (apply + numbers) (count numbers)))
+;求平均值
 
 
 ;-----
